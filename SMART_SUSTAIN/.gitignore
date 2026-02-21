@@ -2,5 +2,6 @@ venv/
 *.pyc
 __pycache__/
 .env
-data/
-models/
+data/raw/
+.DS_Store
+models/saved/
